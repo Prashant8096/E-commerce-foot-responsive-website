@@ -8,7 +8,7 @@ I have design a e commerce website for footwear using HTML, CSS  and JAVASCRIPT 
 
   <h2 align="center"> E-commerce-foot-responsive website </h2>
 
-  E-commerce-foot-responsive website is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  E-commerce-foot-responsive-website is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
 
 </div>
@@ -27,23 +27,23 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Footcap** locally, run this command on your git bash:
+To run ** E-commerce-foot-responsive-website** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/footcap.git
+sudo git clone https://github.com/Prashant8096/E-commerce-foot-responsive website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/footcap.git
+git clone https://github.com/Prashant8096/E-commerce-foot-responsive-website/footcap.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/Prashant8096).
 
 ### License
 
